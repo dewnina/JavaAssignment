@@ -1,10 +1,10 @@
 package Static;
 
 public class StaticAndNonStaticExample {
-    // Static variable
+
     static int staticVariable = 10;
 
-    // Non-static method
+
     public void nonStaticMethod() {
         System.out.println("Inside nonStaticMethod");
         System.out.println("Printing staticVariable from nonStaticMethod: " + staticVariable);

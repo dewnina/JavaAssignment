@@ -7,7 +7,7 @@ public class Squarepattern {
         {
             if(i==1 || i==6)
             {
-                System.out.println("-----");
+                System.out.println("------");
             }
             else
             {
